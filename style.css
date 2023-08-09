@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    gap:20px;
+  }
+
+#grey{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border: 5px solid black;
+    border-radius: 13px;
+  }
+
+#white{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 13px;
+  }
+
+#blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 13px;
+  }
+
+#yellow {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 5px solid black;
+    border-radius: 13px;
+  }
